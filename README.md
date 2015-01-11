@@ -1,2 +1,2 @@
 # start-kit
-Default starter-kit jade/scss/bourbon
+Default starter-kit jade/scss/bourbon/prepros
